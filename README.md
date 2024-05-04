@@ -12,3 +12,5 @@ Risk factor visualization: The dashboard allows users to explore these relations
 
 Dashboard Link:
 You can access the interactive dashboard here: https://public.tableau.com/views/HeartDiseaseAnalysis_17112048928670/HeartDiseaseAnalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link.
+
+[Data_and_Analysis_Process.txt](https://github.com/27062001/Heart-Disease-Analysis/files/15208087/Data_and_Analysis_Process.txt)
